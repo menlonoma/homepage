@@ -14,7 +14,8 @@ paginate = 3
   mainSections = ["posts", "photos"]
   email = "mail@example.com"
   favicon = "icons/favicon.png"
-  logo = "/logo/logo.png"
+  logo = "/logo/logo_s.png"
+  customCSS = ["css/custom.css"]
   about = """
 # Nolan Martin
 
